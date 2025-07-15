@@ -1,0 +1,23 @@
+# Core LLM + RAG
+llama-index>=0.10.32
+llama-cpp-python>=0.2.72
+sentence-transformers
+numpy
+scikit-learn
+
+# PyQt5 GUI
+PyQt5
+
+# Voice Input (Offline STT)
+vosk
+sounddevice
+
+# Text-to-Speech (Offline TTS)
+pyttsx3
+
+# PDF/Text Parsing
+PyMuPDF  # fitz
+pdfminer.six
+
+# Utilities
+tqdm
