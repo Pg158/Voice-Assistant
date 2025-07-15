@@ -1,6 +1,6 @@
 # Core LLM + RAG
-llama-index>=0.10.32
-llama-cpp-python>=0.2.72
+llama-index
+llama-cpp-python
 sentence-transformers
 numpy
 scikit-learn
